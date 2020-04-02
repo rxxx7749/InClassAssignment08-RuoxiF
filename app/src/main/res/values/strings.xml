@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBasePractice01</string>
+    <string name="write_to_cloud">WRITE TO CLOUD</string>
+    <string name="read_from_cloud">READ FROM CLOUD</string>
+    <string name="type_value_here">Type value here</string>
+    <string name="value">Value!</string>
+    <string name="type_key_here">Type key here</string>
+    <string name="key">Key!</string>
+</resources>

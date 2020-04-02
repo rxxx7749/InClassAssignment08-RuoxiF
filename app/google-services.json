@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061123003008",
+    "firebase_url": "https://fir-pactice01.firebaseio.com",
+    "project_id": "fir-pactice01",
+    "storage_bucket": "fir-pactice01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061123003008:android:ac60c0b657e38dc66acc65",
+        "android_client_info": {
+          "package_name": "com.example.android.firebasepractice01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061123003008-0qagv98fle26j9fdvil3eoq3o04go6la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDv1aSQk5-fT6PXF2bdD-y2k_lBZtN-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061123003008-0qagv98fle26j9fdvil3eoq3o04go6la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
